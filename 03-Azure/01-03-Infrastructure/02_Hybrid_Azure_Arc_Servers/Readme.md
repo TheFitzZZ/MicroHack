@@ -211,10 +211,30 @@ Managing secrets, credentials or certificates to secure communication between di
 ## Challenge 5 - Best Practices assessment for Windows Server
 
 ### Goal
+
+In this challenge, you will configure and deploy the Best Practices Assessment for Windows Servers onboarded to Azure Arc. The assessment will evaluate the server’s configuration against Windows best practices, generate actionable remediation steps for identified issues, and help you enhance your server infrastructure's performance, security, and stability.
+
 ### Actions
+
+* Prepare Your Windows Server Environment & Log Analytics Workspace
+* Set Up Best Practices Assessment
+* Run the Best Practices Assessment
+* Analyze Results and Identify Remediation Steps
+
 ### Success criteria
+
+* Best Practices Assessment is enabled and installed on your Arc-enabled Windows Server. 
+* The Assessment Platform , Windows Server Assessment , and Azure Monitor Agent (AMA)  extensions are installed successfully.
+* The first Best Practices Assessment is run successfully, and results appear in the Azure Portal.
+
 ### Learning resources
+
+* [Configure Best Practices Assessment for Arc-enabled Windows servers](https://learn.microsoft.com/en-us/windows-server/manage/azure-arc/best-practices-assessment-for-windows-server)
+
+
 ### Solution - Spoilerwarning
+
+[Solution Steps](./walkthrough/challenge-5/solution.md)
 
 ## Challenge 6 - Activate ESU for Windows Server 2012 R2 via Arc - optional
 
