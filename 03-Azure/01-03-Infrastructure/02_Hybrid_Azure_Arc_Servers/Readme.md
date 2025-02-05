@@ -216,16 +216,15 @@ In this challenge, you will configure and deploy the Best Practices Assessment f
 
 ### Actions
 
-* Prepare Your Windows Server Environment & Log Analytics Workspace
-* Set Up Best Practices Assessment
+* Set Up Best Practices Assessment for one machine
 * Run the Best Practices Assessment
-* Analyze Results and Identify Remediation Steps
+* Analyze Results
 
 ### Success criteria
 
 * Best Practices Assessment is enabled and installed on your Arc-enabled Windows Server. 
 * The Assessment Platform , Windows Server Assessment , and Azure Monitor Agent (AMA)  extensions are installed successfully.
-* The first Best Practices Assessment is run successfully, and results appear in the Azure Portal.
+* The first Best Practices Assessment is run successfully
 
 ### Learning resources
 
@@ -287,3 +286,4 @@ Thank you for investing the time and see you next time!
 * Christian Thönes [Github](https://github.com/cthoenes); [LinkedIn](https://www.linkedin.com/in/christian-t-510b7522/)
 * Nils Bankert [GitHub](https://github.com/nilsbankert); [LinkedIn](https://www.linkedin.com/in/nilsbankert/)
 * Alexander Ortha [GitHub](https://github.com/alexor-ms/); [LinkedIn](https://www.linkedin.com/in/alexanderortha/)
+* Christoph Süßer [GitHub](https://github.com/TheFitzZZ); [LinkedIn](https://www.linkedin.com/in/suesser/)
